@@ -1,0 +1,18 @@
+{
+    "id": 100,
+    "name": "100",
+    "author": "TheRealOwnerGuy",
+    "creators": ["TheRealOwnerGuy"],
+    "verifier": "TheRealOwnerGuy",
+    "verification": "",
+    "percentToQualify": 100,
+    "password": "Free to copy",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
